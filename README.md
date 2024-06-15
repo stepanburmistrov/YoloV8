@@ -14,23 +14,23 @@
 
 
 Youtube-канал
-www.youtube.com/@stepanburmistrov
+https://youtube.com/@stepanburmistrov
 
 Habr
 https://habr.com/ru/users/Stepan_Burmistrov/publications/articles/
 
 Телеграм-канал
-t.me/burmistrov_robotics
+https://t.me/burmistrov_robotics
 
 ВК сообщество
-vk.com/burmistrov_robotics
+https://vk.com/burmistrov_robotics
 
 ВК личная страница
-vk.com/stepan.burmistrov
+https://vk.com/stepan.burmistrov
 
 Курс по ЭЛЕКТРОНИКЕ
-stepik.org/course/109078
+https://stepik.org/course/109078
 
 Школа робототехники RobotX
-robotx.su
+https://robotx.su
 
