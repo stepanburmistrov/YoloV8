@@ -1,0 +1,5 @@
+train: dataset/train/images
+val: dataset/valid/images
+test: dataset/test/images
+nc: 4
+names: [class0, class1, class2, class3]
