@@ -23,6 +23,8 @@ https://habr.com/ru/articles/821971/
 Создание собственного датасета
 
 
+Курс по компьютерному зрению:
+https://stepik.org/a/109816
 
 Youtube-канал
 https://youtube.com/@stepanburmistrov
